@@ -1,2 +1,2 @@
 # deep-tasks
-A collection of deep neural network tasks trained on an RTX 4080 GPU.
+A collection of deep neural network tasks using an RTX 4080 GPU.
